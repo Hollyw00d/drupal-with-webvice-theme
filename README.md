@@ -9,3 +9,4 @@
    - Was developed via [DDEV](https://ddev.com/) locally on a Mac
    - Is hosted on [AWS Lightsail](https://aws.amazon.com/lightsail/)
    - Has [domain registration via Cloudflare](https://www.cloudflare.com/domains/)
+   - Used the [Backup and Migrate Drupal module](https://www.drupal.org/project/backup_migrate) to migrate the database from localhost to remote
