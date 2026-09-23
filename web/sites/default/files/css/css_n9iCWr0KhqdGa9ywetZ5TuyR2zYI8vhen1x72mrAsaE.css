@@ -1,0 +1,2 @@
+/* @license GPL-2.0-or-later https://www.drupal.org/licensing/faq */
+:root{--color-black:#000;--color-white:#fff;}#block-webvice-site-branding{display:flex;justify-content:center;img{height:250px;width:auto;}}body{background-color:var(--color-black);.layout-container{background-color:var(--color-white);}}

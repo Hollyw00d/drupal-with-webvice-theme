@@ -1,0 +1,8 @@
+name: Web Vice
+type: theme
+description: "A theme for crimes against the web."
+core_version_requirement: ^8 || ^9 || ^10 || ^11
+base theme: false
+screenshot: webvicescreenshot.png
+libraries:
+  - webvice/global-css
